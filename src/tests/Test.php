@@ -26,8 +26,8 @@ class Test extends PHPUnit_Framework_TestCase
     /**
      * Write Github.com username and password to run tests
      */
-    private $userName = 'chyslovsky@gmail.com';
-    private $userPassword = 'ch214365';
+    private $userName = '';
+    private $userPassword = '';
     /**
      * @var ApplicationManager
      */
